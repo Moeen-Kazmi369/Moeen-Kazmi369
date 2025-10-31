@@ -11,7 +11,6 @@ I combine **UI/UX design + full-stack engineering** to deliver **end-to-end digi
 - 🖌️ Passionate about **UI/UX implementation** and **system design**.  
 - 🌍 Collaborated with teams in **real estate, fintech, hosting, health, and AI**.  
 - ⚡ Currently working on **AI-powered apps** (RAG systems, calling assistants, trading bots).  
-- 🎯 Vision → Solo Engineer → Build an **Agency**.  
 
 ---
 
